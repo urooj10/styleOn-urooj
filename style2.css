@@ -1,0 +1,48 @@
+.card{
+    margin:auto;
+    justify-content: center;
+}
+
+#dropdownMenuButton{
+   background-color: black; 
+   border:none;
+   padding: 3%;
+   margin-top: -3px;
+  
+   
+} 
+h1{
+    color:rgb(243, 173, 44) !important;
+}
+
+.card{
+    background-color:white !important;
+    color:black !important;
+    border: 1px solid black !important;
+    box-shadow:5px 5px 5px 2px grey;
+    font-weight: bold;
+    
+}
+
+.categories{
+        
+       padding: 15%;
+       
+       
+}
+.categories-data{
+    color: rgb(206, 139, 16);
+}
+/* #dropdownMenuButton .hover{
+    color:orange;
+    border: none;
+} */
+
+body{
+    background-color:rgb(252, 249, 243) !important;
+} 
+img{
+    border:1px solid black;
+    box-shadow:3px 3px 3px 3px grey;
+}
+
